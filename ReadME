@@ -1,0 +1,3 @@
+1593 handwritten digits from around 80 persons in the form of gray scale of 256 values was analyzed.
+Developed  CNN with two Convolution and two fully connected layers to accurately classify the digits using  max-pooling 
+Achieved 89% Accuracy using Relu and 95% using tanh as activation functions   
